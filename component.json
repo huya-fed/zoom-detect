@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/zxlie/zoom-detect",
+    "version": "v1.2.0",
+    "name": "zoom-detect",
+    "main": "zoom-detect.js"
+}
