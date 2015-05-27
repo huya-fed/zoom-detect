@@ -335,5 +335,5 @@ if ( typeof dwfis.define === 'function') {
     // AMD. Register as an anonymous module.
     module.exports = WebpageZoomDetect;
 } else {
-    window.global = WebpageZoomDetect;
+    window.WebpageZoomDetect = WebpageZoomDetect;
 }
